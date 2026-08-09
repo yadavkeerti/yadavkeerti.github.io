@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Spatial research and geospatial work, from academic to independent projects.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [work, ventures]
 horizontal: false
 ---
 
