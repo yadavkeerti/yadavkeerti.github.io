@@ -48,6 +48,6 @@ I also regularly update my side projects and experiments on [GitHub](https://git
 
 Additional information about my work can be found in the [publications](/publications/) and [projects](/projects/) sections. For inquiries, potential collaborations, or to share thoughts, feel free to [get in touch](/contact/).
 
-*Can communicate in English, Korean, and Hindi.*
+_Can communicate in English, Korean, and Hindi._
 
 <div class="accolade-box">🎓 <strong>PhD completed, 2026</strong> — Kongju National University, dissertation on the regional effects of High-Speed Rail.</div>

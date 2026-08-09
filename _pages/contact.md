@@ -28,5 +28,5 @@ I am happy to hear from you, whether it is about research, potential collaborati
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_subject" value="New message from yadavkeerti.github.io">
 
-  <button type="submit" class="contact-submit-btn">Send</button>
+<button type="submit" class="contact-submit-btn">Send</button>
 </form>
