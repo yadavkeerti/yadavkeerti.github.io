@@ -239,10 +239,19 @@ h3 {
 }
 
 /* Flex ordering for about page profile column (left vs right) */
-.about-flex .profile.float-left { order: 1; }
-.about-flex .clearfix:has(+ .profile.float-left), .about-flex .profile.float-left ~ .clearfix { order: 2; }
-.about-flex .profile.float-right { order: 2; }
-.about-flex .profile.float-right ~ .clearfix { order: 1; }
+.about-flex .profile.float-left {
+  order: 1;
+}
+.about-flex .clearfix:has(+ .profile.float-left),
+.about-flex .profile.float-left ~ .clearfix {
+  order: 2;
+}
+.about-flex .profile.float-right {
+  order: 2;
+}
+.about-flex .profile.float-right ~ .clearfix {
+  order: 1;
+}
 
 /* More breathing room between CV entries and inside bullet lists */
 .cv .card {
