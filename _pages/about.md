@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Regional Development, Kongju National University, South Korea
+subtitle: PhD in Regional Development
 
 profile:
   align: right
