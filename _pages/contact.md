@@ -7,7 +7,7 @@ nav_order: 7
 description:
 ---
 
-I'm happy to hear from you — whether it's about research, potential collaborations, or just to connect. Use the form below and I'll get back to you as soon as I can.
+I am happy to hear from you, whether it is about research, potential collaborations, or just to connect. Use the form below and I will get back to you as soon as I can.
 
 <form action="https://formspree.io/f/maewqzbp" method="POST" class="contact-form">
   <div class="form-group">
