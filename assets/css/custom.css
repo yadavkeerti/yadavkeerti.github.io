@@ -233,9 +233,14 @@ h3 {
   }
 }
 
-/* Justify bio paragraph text on about page for even left/right edges */
-.about-flex .clearfix p {
-  text-align: justify;
+/* About page: highlight/accolade box, styled like a soft callout */
+.accolade-box {
+  margin-top: 1.2rem;
+  padding: 0.9rem 1.2rem;
+  background: #f5f5f0;
+  border-radius: 8px;
+  border-left: 4px solid #c9a15a;
+  font-size: 0.95rem;
 }
 
 /* Flex ordering for about page profile column (left vs right) */

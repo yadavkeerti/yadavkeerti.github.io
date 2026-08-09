@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
+    <p>PhD, Regional Development</p>
     <p><a href="mailto:yadavkeerti1199@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></p>
     <p>
       <a href="https://scholar.google.com/citations?user=AOFhVggAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a><br>
@@ -29,6 +30,8 @@ latest_posts:
   enabled: false
 ---
 
+**Spatial data researcher exploring the regional development effects of transport infrastructure.**
+
 Hi! I'm **Keerti Yadav**, a geography researcher currently based in South Korea.
 
 I hold a PhD in regional development from department of Geography at Kongju National University. My PhD research examines the heterogeneous regional effects of high-speed rail across South Korea, investigating how transport infrastructure reshapes regional development, connectivity, and socio-spatial transformation at the city level using a staggered difference-in-differences approach.
@@ -46,3 +49,5 @@ Beyond research, I'm always interested in connecting with researchers and practi
 Feel free to connect if you're interested in discussing transit data, spatial analytics, GIS, or opportunities for research collaboration.
 
 Can communicate in English and Korean and Hindi.
+
+<div class="accolade-box">🎓 <strong>PhD completed, 2026</strong> — Kongju National University, dissertation on the regional effects of High-Speed Rail.</div>
