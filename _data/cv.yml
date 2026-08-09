@@ -3,7 +3,7 @@ cv:
   label: Ph.D. Regional Development
   email: Yadavkeerti1199@gmail.com
   location: South Korea
-  summary: Ph.D. researcher in Urban Geography at Kongju National University, studying the heterogeneous regional effects of High-Speed Rail across South Korea using spatial and geospatial data methods.
+  summary: Currently a geographer collaborating with researchers from diverse interdisciplinary backgrounds, with research interests spanning Deep Learning and Geospatial AI for climate risk assessment, AI-assisted interpretation of geophysical data, and urban transportation issues in major Indian cities from an urban planning perspective.
 
   social_networks:
     - network: LinkedIn
@@ -12,7 +12,8 @@ cv:
       username: your-github-username
 
   address:
-    city: "South Korea"
+    city: "Gongju-si"
+    region: "South Korea"
     countryCode: KR
 
   sections:
@@ -20,18 +21,16 @@ cv:
       - institution: Kongju National University
         location: South Korea
         url: ""
-        area: Urban Geography
+        area: 
         studyType: PhD
         start_date: 2022
         end_date: Present
         score: ""
-        courses: "Global Korea Scholarship Awardee"
-        highlights:
+                highlights:
           - "Thesis: Heterogeneous Regional Effects of High-Speed Rail in South Korea;A City-Level Staggered Difference-in-Differences Analysis"
 
       - institution: Busan University of Foreign Studies
         location: South Korea
-        area: Korean Language Training
         studyType: Language Program
         start_date: 2021
         end_date: 2022
@@ -42,8 +41,6 @@ cv:
         studyType: M.A.
         start_date: 2019
         end_date: 2021
-        highlights:
-          - Best Researcher 2021
 
       - institution: Jawaharlal Nehru University
         location: India
@@ -54,7 +51,7 @@ cv:
 
     Experience:
       - company: Kongju National University
-        position: Ph.D. Researcher, Urban Geography & Transport
+        position: Ph.D. in Regional Development
         location: South Korea
         start_date: 2022
         end_date: Present
@@ -79,7 +76,6 @@ cv:
           - "Government of South Korea"
         date: 2022-07-01
         awarder: Government of South Korea
-        summary: Full 4-year doctoral funding award.
 
       - title: Delegate, Korea International Model UN 2024
         authors:
