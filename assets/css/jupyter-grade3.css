@@ -381,6 +381,13 @@ div.panel,
   box-shadow: none;
 }
 
+.form-group.list-group-item {
+  color: #303030;
+  background-color: #f4f4f4;
+  border-color: #dedede;
+  margin-bottom: 0px;
+}
+
 input,
 button,
 select,
