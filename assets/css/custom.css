@@ -255,3 +255,24 @@ h3 {
 .cv .card ul li {
   margin-bottom: 0.4rem;
 }
+
+/* Darken project category headings (work / ventures) — theme default is too faded */
+.projects h2.category {
+  color: #2b2b2b !important;
+  opacity: 1 !important;
+  font-weight: 600;
+}
+
+/* Projects page: larger subtitle for better visual balance with heading */
+.projects-page .post-description {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+/* Project cards: reduce title size slightly so long titles don't get clipped, and give room for the full last line */
+.projects .card-title {
+  font-size: 1.4rem;
+  line-height: 1.35;
+  overflow: visible;
+  padding-bottom: 4px;
+}
