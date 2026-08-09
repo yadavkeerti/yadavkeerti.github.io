@@ -333,3 +333,11 @@ h3 {
 .contact-submit-btn:hover {
   background: #444;
 }
+
+/* Publications page: darken faded year section headers */
+.publications h2.year,
+.publications h2.bibliography {
+  color: #2b2b2b !important;
+  opacity: 1 !important;
+  font-weight: 600;
+}
