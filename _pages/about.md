@@ -36,7 +36,7 @@ I'm **Keerti Yadav**, a geography researcher based in South Korea. I hold a **Ph
 
 My work is grounded in spatial data science. I build multi-city analytical models in R and ArcGIS, validate transit datasets across heterogeneous urban regions, and use QGIS and Google Earth Engine to identify data gaps and boundary inconsistencies that automated workflows often overlook. I also integrate road network variables into spatial models through cross-join pipelines, explore deep learning techniques to improve predictive spatial modeling, and have developed urban transport infrastructure sustainability models for Indian cities.
 
-Beyond research, I'm always interested in connecting with researchers and practitioners working on:
+I'm always interested in connecting with researchers and practitioners working on:
 
 - Transport and regional development
 - Urban analytics and spatial data science
@@ -44,7 +44,7 @@ Beyond research, I'm always interested in connecting with researchers and practi
 - Open government data and geospatial analytics
 - International and comparative urban research
 
-I also regularly update my side projects and experiments on [GitHub](https://github.com/kikiji-ji-ji-kikiji).
+I also regularly update my side projects and experiments on [GitHub](https://github.com/yadavkeerti).
 
 Additional information about my work can be found in the [publications](/publications/) and [projects](/projects/) sections. For inquiries, potential collaborations, or to share thoughts, feel free to [get in touch](/contact/).
 
