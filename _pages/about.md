@@ -30,11 +30,9 @@ latest_posts:
   enabled: false
 ---
 
-**Spatial data researcher exploring the regional development effects of transport infrastructure.**
+**Spatial data researcher exploring how transport infrastructure reshapes regional development.**
 
-Hi! I'm **Keerti Yadav**, a geography researcher currently based in South Korea.
-
-I hold a PhD in regional development from department of Geography at Kongju National University. My PhD research examines the heterogeneous regional effects of high-speed rail across South Korea, investigating how transport infrastructure reshapes regional development, connectivity, and socio-spatial transformation at the city level using a staggered difference-in-differences approach.
+I'm **Keerti Yadav**, a geography researcher based in South Korea. I hold a **PhD in Regional Development**. My PhD work examined the heterogeneous regional effects of High-Speed Rail across South Korea. Investigating how transport infrastructure reshapes regional development, connectivity, and socio-spatial transformation at the city level, using a **staggered difference-in-differences** approach.
 
 My work is grounded in spatial data science. I build multi-city analytical models in R and ArcGIS, validate transit datasets across heterogeneous urban regions, and use QGIS and Google Earth Engine to identify data gaps and boundary inconsistencies that automated workflows often overlook. I also integrate road network variables into spatial models through cross-join pipelines, explore deep learning techniques to improve predictive spatial modeling, and have developed urban transport infrastructure sustainability models for Indian cities.
 
@@ -46,8 +44,10 @@ Beyond research, I'm always interested in connecting with researchers and practi
 - Open government data and geospatial analytics
 - International and comparative urban research
 
-Feel free to connect if you're interested in discussing transit data, spatial analytics, GIS, or opportunities for research collaboration.
+I also regularly update my side projects and experiments on [GitHub](https://github.com/kikiji-ji-ji-kikiji).
 
-Can communicate in English and Korean and Hindi.
+Additional information about my work can be found in the [publications](/publications/) and [projects](/projects/) sections. For inquiries, potential collaborations, or to share thoughts, feel free to [get in touch](/contact/).
+
+*Can communicate in English, Korean, and Hindi.*
 
 <div class="accolade-box">🎓 <strong>PhD completed, 2026</strong> — Kongju National University, dissertation on the regional effects of High-Speed Rail.</div>
