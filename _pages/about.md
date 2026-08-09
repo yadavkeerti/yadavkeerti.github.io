@@ -40,9 +40,9 @@ I'm always interested in connecting with researchers and practitioners working o
 
 - Transport and regional development
 - Urban analytics and spatial data science
-- GIS and spatial data quality assurance
-- Open government data and geospatial analytics
-- International and comparative urban research
+- Geospatial AI and data-driven research
+- Open government data and geospatial analysis
+- Comparative urban and regional studies
 
 I also regularly update my side projects and experiments on [GitHub](https://github.com/yadavkeerti).
 
