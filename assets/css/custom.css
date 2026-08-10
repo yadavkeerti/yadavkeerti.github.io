@@ -156,8 +156,16 @@ span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
   background-image: none !important;
   color: #000000 !important;
   border: none !important;
-  padding-left: 0 !important;
-  font-weight: 600 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-weight: 700 !important;
+  font-size: 1rem !important;
+  line-height: 1.2 !important;
+  vertical-align: top !important;
+}
+
+.cv .date-column table.table-cv td {
+  vertical-align: top !important;
 }
 
 /* About page header: Gongsanseong night photo, full-bleed with dark overlay */
