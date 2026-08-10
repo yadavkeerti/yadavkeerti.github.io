@@ -8,25 +8,25 @@ cv:
     - network: GitHub
       username: yadavkeerti
 
-  sections:
-    summary:
-      - Ph.D. geographer and geospatial data scientist with 3+ years of
-        experience spanning spatial data analysis, transit and mobility data
-        systems, remote sensing/Earth observation, and quasi-experimental causal
-        inference for urban infrastructure and transport policy. Doctoral research
-        applies staggered Difference-in-Differences (Callaway-Sant'Anna)
-        methodology to estimate the heterogeneous regional effects of high-speed
-        rail across 31 South Korean cities and nine transit corridors
-        (2008-2020), building and validating a multi-source panel dataset that
-        integrates administrative records, road-network and infrastructure
-        variables, and satellite-derived (Landsat/Sentinel-2 NDBI) land-use
-        change. Applied Earth observation work extends to drought and heatwave
-        risk modeling and land-use vulnerability assessment across South Korea
-        and India. Proficient in Python and R for spatial data pipelines and
-        analytical modeling, and in ArcGIS, QGIS, Google Earth Engine, OSMnx, and
-        the Kakao Maps API for GIS, remote sensing, and transit-network analysis.
+  summary: >
+    Ph.D. geographer and geospatial data scientist with 3+ years of
+    experience spanning spatial data analysis, transit and mobility data
+    systems, remote sensing/Earth observation, and quasi-experimental causal
+    inference for urban infrastructure and transport policy. Doctoral research
+    applies staggered Difference-in-Differences (Callaway-Sant'Anna)
+    methodology to estimate the heterogeneous regional effects of high-speed
+    rail across 31 South Korean cities and nine transit corridors
+    (2008-2020), building and validating a multi-source panel dataset that
+    integrates administrative records, road-network and infrastructure
+    variables, and satellite-derived (Landsat/Sentinel-2 NDBI) land-use
+    change. Applied Earth observation work extends to drought and heatwave
+    risk modeling and land-use vulnerability assessment across South Korea
+    and India. Proficient in Python and R for spatial data pipelines and
+    analytical modeling, and in ArcGIS, QGIS, Google Earth Engine, OSMnx, and
+    the Kakao Maps API for GIS, remote sensing, and transit-network analysis.
 
-    education:
+  sections:
+    Education:
       - institution: Kongju National University, South Korea
         area: Geography
         degree: PhD
@@ -51,7 +51,7 @@ cv:
         start_date: 2016-08
         end_date: 2019-05
 
-    experience:
+    Experience:
       - company: Kongju National University, South Korea
         position: Ph.D. Researcher - Regional Development & Urban Transport
         start_date: 2022-03
@@ -118,40 +118,30 @@ cv:
             students (Delhi, 2020) by organizing and leading end-to-end
             travel, scheduling, and on-the-ground coordination.
 
-
-    publications:
+    Publications:
       - title: "Impact of High-Speed Rail on Urban Regions in South Korea: A
           Systematic Literature Review"
-        authors:
-          - Y. Keerti
-          - J. H. Jin
-        journal: The Geographical Journal of Korea
+        publisher: The Geographical Journal of Korea
         date: "2025-01-01"
+        summary: "Authors: Y. Keerti, J. H. Jin"
       - title: "A Systematic Approach for Restoring Sustainability in the
           Hilly Regions of Northeast India: The Zabö Conceptual Framework"
-        authors:
-          - K. Yadav
-          - V. Choudhary
-        journal: GeoJournal (under second-stage review)
+        publisher: GeoJournal (under second-stage review)
+        summary: "Authors: K. Yadav, V. Choudhary"
       - title: "Training-Free Vision-Language Models for Near-Surface GPR
           Radargram Interpretation: A Benchmark of Subsurface Anomaly
           Detection and Reliability"
-        authors:
-          - K. Baluch
-          - M. F. Nasir
-          - K. Yadav
-          - S. A. Qaisrani
-          - J. Wang
-        journal: "Journal of Geophysical Research: Solid Earth (under
+        publisher: "Journal of Geophysical Research: Solid Earth (under
           second-stage review)"
+        summary: "Authors: K. Baluch, M. F. Nasir, K. Yadav, S. A. Qaisrani, J. Wang"
 
-    conference_presentations:
-      - "\"Climate Change Vulnerability of Traditional Land Use Practices in
+    Conference Presentations:
+      - bullet: "\"Climate Change Vulnerability of Traditional Land Use Practices in
         Zabō Agriculture, India\" - KAGIS Fall Conference & IAGI
         International Symposium, 2025"
-      - "\"Exploring Sustainability through existing and potential GIAHS (Globally Important Agricultural Heritage Systems)\" - National Conference on Sustainable Rural Development,
+      - bullet: "\"Exploring Sustainability through existing and potential GIAHS (Globally Important Agricultural Heritage Systems)\" - National Conference on Sustainable Rural Development,
         October 2023"
-      - "\"Human Resource: Success Key of South Korea\" - 7th AKS Young
+      - bullet: "\"Human Resource: Success Key of South Korea\" - 7th AKS Young
         Scholars' International Webinar on Korean Studies, JNU New Delhi,
         June 2020"
 
@@ -172,19 +162,18 @@ cv:
         details: Python, R, automated data ingestion and quality-control
           pipelines
 
-    professional_associations:
-      - American Association of Geographers
-      - Economic Geography Research Group
-      - Quantitative Methods Research Group
-      - Transport Geography Research Group
-      - Urban Geography Research Group
+    Professional Associations:
+      - bullet: American Association of Geographers
+      - bullet: Economic Geography Research Group
+      - bullet: Quantitative Methods Research Group
+      - bullet: Transport Geography Research Group
+      - bullet: Urban Geography Research Group
 
-    honors_awards_service:
-      - Government of Korea (GKS/Global Korea Scholarship) recipient
-      - AKS International Young Scholars' Seminar
-      - "Certification: Test of Proficiency in Korean (TOPIK)"
-      - Presenter, Korea International Model UN 2024, DISEC Committee, Seoul
-      
+    Honors, Awards & Service:
+      - bullet: Government of Korea (GKS/Global Korea Scholarship) recipient
+      - bullet: AKS International Young Scholars' Seminar
+      - bullet: "Certification: Test of Proficiency in Korean (TOPIK)"
+      - bullet: Presenter, Korea International Model UN 2024, DISEC Committee, Seoul
 
     languages:
       - label: English
