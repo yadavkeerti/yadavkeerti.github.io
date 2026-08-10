@@ -393,4 +393,6 @@ span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
 .cv .date-column .badge {
   line-height: 1.3 !important;
   vertical-align: top !important;
+  position: relative;
+  top: 2px;
 }
