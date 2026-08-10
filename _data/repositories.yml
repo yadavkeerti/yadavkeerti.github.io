@@ -1,5 +1,9 @@
+# list of GitHub usernames whose stats will be displayed
 github_users: [yadavkeerti]
+
+# list of GitHub repositories to feature (auto-updated weekly)
 github_repos:
+  - yadavkeerti/yadavkeerti.github.io
   - yadavkeerti/Urban-Networks-India-Korea
-  - yadavkeerti/china_subsidence_uplift_gee-Nanjing-Guizhou-Jinhua-
   - yadavkeerti/informal-growth-detection
+  - yadavkeerti/china_subsidence_uplift_gee-Nanjing-Guizhou-Jinhua-
