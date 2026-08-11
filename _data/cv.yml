@@ -63,7 +63,7 @@ cv:
         end_date: 2024-06
 
     Additional Professional Experience:
-      - bullet: "**Korean-English Translator & Cultural Liaison / International Program Coordinator** — International forums & institutions, South Korea & India (2020 – Present)"
+      - bullet: "**Korean-English Translator & Cultural Liaison / International Program Coordinator** at International forums & institutions, South Korea & India (2020 - Present)"
       - bullet: Supported communication across international programs (2023-2026) as a translator and cultural liaison between Korean institutions and international/Indian delegations.
       - bullet: 47th International Exhibition on Environmental Technology & Green Energy (Seoul, 2026)
       - bullet: International Forum on One Korea (Seoul, 2024)
@@ -103,7 +103,7 @@ cv:
       - bullet: '"Exploring Rural Sustainability through AHS (Agricultural Heritage System)" - National Conference on Sustainable Rural Development, October 2023'
       - bullet: '"Human Resource: Success Key of South Korea" - 7th AKS Young Scholars'' International Webinar on Korean Studies, JNU, New Delhi, June 2020'
 
-    technical_skills:
+    Technical & Research Skills:
       - label: GIS & Geospatial Analysis
         details: ArcGIS, QGIS, spatial data analysis, spatial data quality assurance, boundary and attribute validation, multi-source geospatial data integration
       - label: Remote Sensing & Earth Observation
