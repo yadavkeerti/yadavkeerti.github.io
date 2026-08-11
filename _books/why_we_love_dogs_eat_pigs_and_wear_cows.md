@@ -6,3 +6,5 @@ author: Melanie Joy
 categories: sustainability
 date: 2026-01-01
 ---
+
+A look at "carnism" — the invisible belief system that makes eating some animals feel normal and others unthinkable — and why that inconsistency usually goes completely unexamined.

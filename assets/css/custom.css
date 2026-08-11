@@ -404,3 +404,34 @@ span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
   position: relative;
   top: 2px;
 }
+
+/* Individual book review pages only (not the /books listing):
+   white text over the gallery-wall photo, no card, larger font. */
+.book-review-page .post-title,
+.book-review-page .post-meta,
+.book-review-page .post-tags,
+.book-review-page .post-tags a,
+.book-review-page article p,
+.book-review-page article li,
+.book-review-page figcaption,
+.book-review-page figcaption em {
+  color: #ffffff !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+}
+.book-review-page .post-title {
+  font-size: 2.75rem;
+}
+.book-review-page article p,
+.book-review-page article li,
+.book-review-page article blockquote {
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+.book-review-page hr {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.book-review-page article blockquote,
+.book-review-page article blockquote p {
+  color: #1a1a1a !important;
+  text-shadow: none !important;
+}
