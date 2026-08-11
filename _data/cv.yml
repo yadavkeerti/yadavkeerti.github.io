@@ -2,6 +2,7 @@ cv:
   name: Keerti Yadav
   location: Gongju, South Korea
   email: yadavkeerti1199@gmail.com
+  phone: "+82-10-3972-9980"
   social_networks:
     - network: LinkedIn
       username: yadavkeerti
@@ -9,21 +10,24 @@ cv:
       username: yadavkeerti
 
   summary: >
-    Ph.D. geographer and geospatial data scientist with 3+ years of
-    experience spanning spatial data analysis, transit and mobility data
-    systems, remote sensing/Earth observation, and quasi-experimental causal
-    inference for urban infrastructure and transport policy. Doctoral research
-    applies staggered Difference-in-Differences (Callaway-Sant'Anna)
-    methodology to estimate the heterogeneous regional effects of high-speed
-    rail across 31 South Korean cities and nine transit corridors
-    (2008-2020), building and validating a multi-source panel dataset that
-    integrates administrative records, road-network and infrastructure
-    variables, and satellite-derived (Landsat/Sentinel-2 NDBI) land-use
-    change. Applied Earth observation work extends to drought and heatwave
-    risk modeling and land-use vulnerability assessment across South Korea
-    and India. Proficient in Python and R for spatial data pipelines and
-    analytical modeling, and in ArcGIS, QGIS, Google Earth Engine, OSMnx, and
-    the Kakao Maps API for GIS, remote sensing, and transit-network analysis.
+    Recent Ph.D. graduate in Regional Development with experience
+    collaborating across interdisciplinary research teams and with academic
+    and professional partners. Experience spanning spatial data analysis,
+    transit and mobility data, and quasi-experimental causal inference for
+    urban infrastructure and transport policy. Doctoral research applies
+    staggered Difference-in-Differences (Callaway-Sant'Anna) methodology to
+    estimate the heterogeneous regional effects of high-speed rail across 31
+    South Korean cities (2008-2020), building and validating a multi-source
+    panel dataset that integrates administrative records, road-network
+    infrastructure, and satellite-derived (Landsat/Sentinel-2 NDBI) land-use
+    change parameters. Current work involves developing and applying
+    geospatial and deep learning approaches to climate-risk assessment,
+    environmental and geophysical data interpretation, and urban and
+    transportation-related research, while collaborating with researchers
+    across interdisciplinary fields. Overall research experience spans urban
+    infrastructure, transport, regional development, and Geospatial AI, with
+    a focus on applying spatial data and quantitative methods to real-world
+    urban and regional challenges.
 
   sections:
     Education:
@@ -57,110 +61,134 @@ cv:
         start_date: 2022-03
         end_date: 2026-02
         highlights:
-          - Isolated heterogeneous regional treatment effects of high-speed
-            rail across cities (2008-2020) by validating a quasi-experimental design.
-          - Delivered an analysis-ready, multi-source panel dataset spanning
-            31 cities and 13 years by resolving data-source misalignments,
-            missing-value gaps, and administrative boundary/name
-            inconsistencies, using custom R- and Python-based crosswalk and
-            geocoding routines.
-          - Quantified land-use and built-up change across cities by
-            integrating Landsat/Sentinel-2 NDBI satellite imagery with
-            socioeconomic panel data in R, ArcGIS, and Google Earth Engine,
-            enabling city-level geospatial impact analysis at scale.
-          - Corrected geographic boundary errors and closed data gaps across
-            the panel dataset by cross-checking satellite-derived land-use
-            change against socioeconomic and infrastructure records in
-            ArcGIS, QGIS, and Google Earth Engine, aligning results with
-            local administrative policy.
-          - Reduced manual data-integration effort on recurring road-network
-            updates by building automated cross-join pipelines in Python and
-            R for expressway and national-highway variables, cutting
-            ingestion and quality-check time across the dataset.
-          - Built reusable working knowledge of Korean public and geospatial
-            datasets by using OSMnx to extract and analyze street-network
-            data and the Kakao Maps API to plot and cross-check
-            Korea-specific spatial resources.
-          - Produced actionable, country-specific transit and mobility
-            recommendations for India and South Korea by synthesizing policy
-            documents, spatial data, and governance case studies with local
-            governance bodies and academic partners into a cross-national
-            research framework.
-          - Sustained reproducibility across a multi-year, multi-partner
-            project by documenting research methodology and data pipelines
-            throughout, supporting consistent process compliance for all
-            collaborators.
-
+          - Identified heterogeneous regional effects of high-speed rail
+            across 31 cities (2008-2020) using a quasi-experimental research
+            design.
+          - Constructed and validated an original multi-source panel dataset
+            by systematically compiling and harmonizing socioeconomic,
+            infrastructure, and administrative data using R and Python.
+          - Developed an original city-level geospatial dataset by
+            integrating Landsat/Sentinel-2 imagery with socioeconomic and
+            land-use data using Google Earth Engine, ArcGIS, and QGIS to
+            assess changes in built-up areas and land use.
+          - Worked with public and geospatial datasets, using Python, R,
+            OSMnx, and Kakao Maps and ACS API to collect, integrate, and
+            analyse facilities, road-network, and transport data.
+          - Developed India-focused transit and mobility recommendations by
+            comparing South Korean policies, spatial data, and governance
+            practices with Indian contexts in collaboration with local
+            governance bodies and academic partners.
+          - Kept the project well-documented and repeatable, helping
+            collaborators follow consistent methods and achieve reliable
+            results over time.
+          - Extended doctoral research into applied climate risk assessment
+            by conducting a study on land-use vulnerability in Zabö
+            agriculture (Northeast India) and a collaborative GIS-based deep
+            ensemble model of drought and heatwave risk in Rajasthan.
       - company: Kongju National University, South Korea
-        position: Research Assistant - Mapping & Spatial Data
+        position: Research Assistant - Regional Development Research Lab
         start_date: 2023-01
-        end_date: 2024-12
-        highlights:
-          - Maintained data integrity for university mapping projects by
-            supporting collection, cleaning, and validation processes in
-            coordination with faculty and external data providers.
+        end_date: 2024-06
       - company: International forums & institutions, South Korea & India
         position: Korean-English Translator & Cultural Liaison / International
           Program Coordinator
         start_date: 2020-01
         end_date: present
         highlights:
-          - Enabled clear communication across 5+ major cross-border
-            programs (2023-2026) by serving as trusted translator and
-            cultural liaison between Korean institutions and
-            international/Indian delegations, including the 47th
-            International Exhibition on Environmental Technology & Green
-            Energy (Seoul, 2026), International Forum on One Korea (Seoul,
-            2024), Korea International Model United Nations (Seoul, 2024),
-            Global Peace Leadership Corps (Seoul, 2024), and the Andong
-            Cultural Exchange (Andong, 2023).
-          - Delivered a 10-day international exchange program for HUFS
-            students (Delhi, 2020) by organizing and leading end-to-end
-            travel, scheduling, and on-the-ground coordination.
+          - Supported communication across international programs (2023-2026)
+            as a translator and cultural liaison between Korean institutions
+            and international/Indian delegations.
+          - 47th International Exhibition on Environmental Technology & Green
+            Energy (Seoul, 2026)
+          - International Forum on One Korea (Seoul, 2024)
+          - Andong Cultural Exchange (Andong, 2023)
+          - International exchange program for HUFS students in Delhi (2020)
+      - company: Match Group, Seoul, South Korea
+        position: Content Quality Reviewer, Media Marketing
+        start_date: 2020-01
+        end_date: 2021-01
+        highlights:
+          - Planned and coordinated user-focused events by analysing user
+            interests and engagement patterns to support relevant community
+            experiences.
+          - Reviewed and quality-checked user-submitted content for
+            compliance with platform policies and content standards,
+            ensuring consistency and accuracy under established review
+            guidelines.
 
     Publications:
       - title: "Impact of High-Speed Rail on Urban Regions in South Korea: A
           Systematic Literature Review"
-        publisher: The Geographical Journal of Korea
-        date: "2025-01-01"
+        publisher: "The Geographical Journal of Korea, 59(3), 151-170"
+        date: "2025"
         summary: "Authors: Y. Keerti, J. H. Jin"
       - title: "A Systematic Approach for Restoring Sustainability in the
           Hilly Regions of Northeast India: The Zabö Conceptual Framework"
-        publisher: GeoJournal (under second-stage review)
+        publisher: "GeoJournal — Under second-stage review"
+        date: "In Review"
         summary: "Authors: K. Yadav, V. Choudhary"
       - title: "Training-Free Vision-Language Models for Near-Surface GPR
           Radargram Interpretation: A Benchmark of Subsurface Anomaly
           Detection and Reliability"
-        publisher: "Journal of Geophysical Research: Solid Earth (under
-          second-stage review)"
+        publisher: "NDT and E International — Under first-stage review"
+        date: "In Review"
         summary: "Authors: K. Baluch, M. F. Nasir, K. Yadav, S. A. Qaisrani, J. Wang"
+      - title: "Analysing Drought and Heatwave Risk over the State of
+          Rajasthan: Integrating Hybrid Deep Ensemble and GIS-Based Soft
+          Computing"
+        publisher: "Ongoing Research Collaboration"
+        date: "Ongoing"
+        summary: "Authors: V. Choudhary, K. Yadav, M. Mondal, M. Punia"
+      - title: "Bridging the Gap: Governance Lessons from South Korea for
+          Urban Mobility in Indian Megacities"
+        publisher: "Ongoing Research Collaboration"
+        date: "Ongoing"
+        summary: "Authors: K. Yadav, A. Bhattacharjee"
+      - title: "Developing a graph neural network framework to assess how
+          transit accessibility, walkability, and geographic connectivity
+          shape functional urban regions across one city from 3 nations
+          (US, Korea and India)"
+        publisher: "Independent Research"
+        date: "Ongoing"
 
     Conference Presentations:
-      - bullet: "\"Climate Change Vulnerability of Traditional Land Use Practices in
-        Zabō Agriculture, India\" - KAGIS Fall Conference & IAGI
-        International Symposium, 2025"
-      - bullet: "\"Exploring Sustainability through existing and potential GIAHS (Globally Important Agricultural Heritage Systems)\" - National Conference on Sustainable Rural Development,
-        October 2023"
-      - bullet: "\"Human Resource: Success Key of South Korea\" - 7th AKS Young
-        Scholars' International Webinar on Korean Studies, JNU New Delhi,
-        June 2020"
+      - bullet: "\"Climate Change Vulnerability of Traditional Land Use
+        Practices in Zabō Agriculture, India\" - KAGIS Fall Conference &
+        IAGI International Symposium, 2025"
+      - bullet: "\"Exploring Rural Sustainability through AHS (Agricultural
+        Heritage System)\" - National Conference on Sustainable Rural
+        Development, October 2023"
+      - bullet: "\"Human Resource: Success Key of South Korea\" - 7th AKS
+        Young Scholars' International Webinar on Korean Studies, JNU, New
+        Delhi, June 2020"
 
     technical_skills:
-      - label: Geospatial & Spatial Analysis
-        details: ArcGIS, QGIS, spatial data auditing and QA, boundary/attribute
-          validation, multi-source dataset integration
+      - label: GIS & Geospatial Analysis
+        details: ArcGIS, QGIS, spatial data analysis, spatial data quality
+          assurance, boundary and attribute validation, multi-source
+          geospatial data integration
       - label: Remote Sensing & Earth Observation
-        details: Google Earth Engine, Landsat/Sentinel-2 NDBI land-use and
-          land-cover change analysis, satellite-derived variable integration
-      - label: Transit & Mobility Data
-        details: OSMnx street-network extraction, HSR/transit
-          corridor panel datasets, transit accessibility analysis
-      - label: Causal Inference & Econometric model 
-        details: Staggered Difference-in-Differences (Callaway-Sant'Anna),
-          panel data analysis, quasi-experimental design
-      - label: Programming & Data Pipelines
-        details: Python, R, automated data ingestion and quality-control
-          pipelines
+        details: Google Earth Engine, Landsat, Sentinel-2, NDBI, land-use/
+          land-cover change analysis, satellite-derived variables, Earth
+          observation data processing
+      - label: Programming & Geospatial Data Engineering
+        details: Python, R, OSMnx, automated data ingestion, data quality
+          control, geospatial dataset preparation
+      - label: Transport & Mobility Analytics
+        details: OpenStreetMap/OSMnx/Overture Maps, ACS API, HSR and transit
+          datasets, street-network analysis, transit accessibility, transport
+          network integration, mobility analysis
+      - label: Causal Inference & Quantitative Methods
+        details: Panel data analysis, staggered Difference-in-Differences,
+          Callaway-Sant'Anna estimator, quasi-experimental design, causal
+          inference
+      - label: Urban & Regional Research
+        details: Urban infrastructure, transport policy, regional
+          development, spatial and mobility analysis, cross-national policy
+          analysis, governance case studies
+      - label: AI & Applied Research
+        details: Machine learning and deep learning for spatial modelling,
+          Geospatial AI, climate and environmental risk assessment
 
     Professional Associations:
       - bullet: American Association of Geographers
@@ -170,14 +198,17 @@ cv:
       - bullet: Urban Geography Research Group
 
     Honors, Awards & Service:
-      - bullet: Government of Korea (GKS/Global Korea Scholarship) recipient
+      - bullet: Presenter, Korea International Model UN 2024, DISEC
+          Committee, Seoul
+      - bullet: Global Peace Leadership Corps (Seoul, 2024)
+      - bullet: Government of Korea Scholarship recipient
       - bullet: AKS International Young Scholars' Seminar
-      - bullet: "Certification: Test of Proficiency in Korean (TOPIK)"
-      - bullet: Presenter, Korea International Model UN 2024, DISEC Committee, Seoul
+      - bullet: "Certification: TOPIK"
+      - bullet: Executive Secretary, ISRK (2023-2024)
 
     languages:
       - label: English
-        details: Native / Bilingual
+        details: Native
       - label: Hindi
         details: Professional Working Proficiency
       - label: Korean
