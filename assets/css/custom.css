@@ -434,4 +434,16 @@ span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
 .book-review-page article blockquote p {
   color: #1a1a1a !important;
   text-shadow: none !important;
+
+/* Justify CV body copy so paragraphs and bullet text are flush on
+   both the left and right edges instead of ragged-right, matching
+   across summary text, highlight bullets, and generic list entries */
+.cv .card-text,
+.cv .items .item,
+.cv p {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 }
