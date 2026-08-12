@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/Keerti_Yadav_Academic_CV.pdf
 cv_format: rendercv # options: rendercv, jsonresume
 description:
 toc:
