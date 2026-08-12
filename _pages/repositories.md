@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Selected code repositories from my research and side projects — spanning geospatial analysis, remote sensing, and urban data science.
 nav_order: 5
 ---

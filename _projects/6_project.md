@@ -3,7 +3,7 @@ layout: page
 title: 32 BC
 description: A personal mapping, analysis, and visualization brand.
 importance: 6
-category: ventures
+category: venture
 redirect: /launching-soon/
 blurred: true
 ---

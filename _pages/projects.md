@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Spatial research and geospatial work, from academic to independent projects.
 nav: true
 nav_order: 4
-display_categories: [work, ventures]
+display_categories: [work, venture]
 horizontal: false
 ---
 
@@ -17,6 +17,8 @@ horizontal: false
   {% assign category_label = category %}
   {% if category == "work" %}
     {% assign category_label = "Applied Research & Learning Projects" %}
+  {% elsif category == "venture" %}
+    {% assign category_label = "Venture" %}
   {% endif %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category_label }}</h2>
