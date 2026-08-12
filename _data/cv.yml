@@ -2,7 +2,6 @@ cv:
   name: Keerti Yadav
   location: Gongju, South Korea
   email: yadavkeerti1199@gmail.com
-  phone: "+82-10-3972-9980"
   social_networks:
     - network: LinkedIn
       username: yadavkeerti
@@ -46,9 +45,9 @@ cv:
 
     Experience:
       - company: Kongju National University, South Korea
-        position: Ph.D. Researcher - Regional Development & Urban Transport
-        start_date: 2022-03
-        end_date: 2026-02
+        position: Ph.D. Researcher - Department of Geography
+        start_date: 2022-09
+        end_date: 2026-08
         highlights:
           - Identified heterogeneous regional effects of high-speed rail across 31 cities (2008-2020) using a quasi-experimental research design.
           - Constructed and validated an original multi-source panel dataset by systematically compiling and harmonizing socioeconomic, infrastructure, and administrative data using R and Python.
