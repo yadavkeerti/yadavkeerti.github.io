@@ -427,9 +427,8 @@ span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
   color: #1a1a1a !important;
   text-shadow: none !important;
 
-/* Justify CV body copy so paragraphs and bullet text are flush on
-   both the left and right edges instead of ragged-right, matching
-   across summary text, highlight bullets, and generic list entries */
+/* Justify CV body copy so lines are flush on both the left and
+   right edges, with even word spacing (not stretched/gappy) */
 .cv .card-text,
 .cv .items .item,
 .cv p {
