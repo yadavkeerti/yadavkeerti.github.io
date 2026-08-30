@@ -44,4 +44,4 @@ An automated, serverless Decision Support System tailored for high-altitude haza
 ### 🔗 Links & Resources
 
 - **GitHub Repository:** [Automated-Hazard-Weather-Check](https://github.com/yadavkeerti/Automated-Hazard-Weather-Check)
-- **Interactive GEE Application:** <a href="https://yadavkeerti1199.users.earthengine.app/view/hazardalertinhimalayas" data-proofer-ignore target="_blank">Live GEE Platform</a>
+- **Interactive GEE Application:** [Live GEE Platform](https://yadavkeerti1199.users.earthengine.app/view/hazardalertinhimalayas)
