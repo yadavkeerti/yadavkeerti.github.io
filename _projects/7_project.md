@@ -4,7 +4,7 @@ title: Himalayan Hazard Early Warning System
 description: Autonomous 24/7 cloud-native pipeline monitoring seismic, wildfire, flash flood, and GLOF risks across the Himalayas.
 img: assets/img/gee_himalayan_hazard.jpg
 importance: 0
-category: Applied Research & Learning Projects
+category: work
 related_publications: false
 ---
 
