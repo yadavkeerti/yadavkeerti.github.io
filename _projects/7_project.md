@@ -26,12 +26,11 @@ An automated, serverless Decision Support System tailored for high-altitude haza
 - **Stateful Memory Management:** Utilizes Google PropertiesService to log event IDs and prevent duplicate spamming.
 - **Bi-directional Webhook:** Interactive Telegram commands for live status checks.
 
-### Telegram Alert Bot in Action
-![Telegram hazard alert notifications](/assets/img/telegram_hazard_alert.png)
-![Telegram bot info page](/assets/img/telegram_bot_info.png)
-
 ### Links & Resources
 
 - **GitHub Repository:** [Automated-Hazard-Weather-Check](https://github.com/yadavkeerti/Automated-Hazard-Weather-Check)
 - **Interactive GEE Application:** [Live GEE Platform](https://yadavkeerti1199.users.earthengine.app/view/hazardalertinhimalayas)
 - **Telegram Alert Bot:** [@nepal_hazard_alert_bot](https://lnkd.in/gazJr-EE)
+
+### Telegram Alert Bot in Action
+![Telegram bot info page](/assets/img/telegram_bot_info.png)
