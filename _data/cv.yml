@@ -72,14 +72,15 @@ cv:
       - bullet: Reviewed and quality-checked user-submitted content for compliance with platform policies and content standards, ensuring consistency and accuracy under established review guidelines.
 
     Publications:
+      Publications:
+      - title: "A Systematic Approach for Restoring Sustainability in the Hilly Regions of Northeast India: The Zabō Conceptual Framework"
+        publisher: "GeoJournal, 91, 169. https://doi.org/10.1007/s10708-026-11720-6"
+        date: "2026"
+        summary: "Authors: K. Yadav, V. Choudhary"
       - title: "Impact of High-Speed Rail on Urban Regions in South Korea: A Systematic Literature Review"
         publisher: "The Geographical Journal of Korea, 59(3), 151-170"
         date: "2025"
-        summary: "Authors: Y. Keerti, J. H. Jin"
-      - title: "A Systematic Approach for Restoring Sustainability in the Hilly Regions of Northeast India: The Zabö Conceptual Framework"
-        publisher: "GeoJournal — Under second-stage review"
-        date: "In Review"
-        summary: "Authors: K. Yadav, V. Choudhary"
+        summary: "Authors: K. Yadav, J. H. Jin"
       - title: "Training-Free Vision-Language Models for Near-Surface GPR Radargram Interpretation: A Benchmark of Subsurface Anomaly Detection and Reliability"
         publisher: "NDT and E International — Under first-stage review"
         date: "In Review"
