@@ -1,4 +1,4 @@
-cv:
+CV:
   name: Keerti Yadav
   location: Gongju, South Korea
   email: yadavkeerti1199@gmail.com
@@ -8,7 +8,7 @@ cv:
     - network: GitHub
       username: yadavkeerti
 
-  summary: >
+  Summary: >
     Recent Ph.D. graduate in Regional Development with experience collaborating across interdisciplinary research teams and with academic and
     professional partners. Experience spanning spatial data analysis, transit and mobility data, and quasi-experimental causal inference for urban
     infrastructure and transport policy. Doctoral research applies staggered Difference-in-Differences (Callaway-Sant'Anna) methodology to estimate
@@ -19,7 +19,7 @@ cv:
     fields. Overall research experience spans urban infrastructure, transport, regional development, and Geospatial AI, with a focus on applying
     spatial data and quantitative methods to real-world urban and regional challenges.
 
-  sections:
+  Sections:
     Education:
       - institution: Kongju National University, South Korea
         area: Geography
